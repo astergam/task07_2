@@ -1,0 +1,1 @@
+![terraform_state](terraform_state.png)
